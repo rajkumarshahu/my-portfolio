@@ -19259,7 +19259,7 @@ a:focus,
 .btn-tertiary:focus,
 .icon-tertiary.icon-hover:hover,
 .icon-tertiary.icon-hover:focus {
-    color: #caa669
+    color: #be821b
 }
 
 .bg-tertiary,
@@ -19274,7 +19274,7 @@ a:focus,
 .parallax {
     /* The image used */
     background-image:linear-gradient(
-        rgba(255, 0, 0, 0.45),
+        rgba(107, 113, 201, 0.63),
         rgba(236, 223, 223, 0.432)
       ), url("../images/it-bg02.jpg");
 
