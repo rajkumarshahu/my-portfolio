@@ -19276,7 +19276,7 @@ a:focus,
     background-image:linear-gradient(
         rgba(107, 113, 201, 0.63),
         rgba(236, 223, 223, 0.432)
-      ), url("../images/it-bg02.jpg");
+      ), url("../images/it-bg02.jpg"), url("../images/it-avatar-96x96.jpg");
 
     /* Set a specific height */
     min-height: 200px;
