@@ -17828,10 +17828,10 @@ pre {
     color: #352a47
 }
 
-.btn:hover,
+/* .btn:hover,
 .btn:focus {
     background: #fff
-}
+} */
 
 .btn-default {
     color: #282828;
@@ -17907,7 +17907,7 @@ pre {
     background-color: #ca4441
 }
 
-.icon-box {
+/* .icon-box {
     display: inline-block;
     margin-bottom: 30px
 }
@@ -17932,7 +17932,7 @@ pre {
     -moz-transition: all .2s ease-in-out;
     -webkit-transition: all .2s ease-in-out;
     -o-transition: all .2s ease-in-out
-}
+} */
 
 .icon-circle {
     position: relative;
@@ -17960,10 +17960,10 @@ pre {
     -o-transition: all .1s ease-out
 }
 
-a.icon>*:hover,
+/* a.icon>*:hover,
 a.icon>*:focus {
     color: inherit
-}
+} */
 
 .icon-lg {
     font-size: 88px;
