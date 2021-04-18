@@ -735,12 +735,10 @@
 
 
                 <!-- Google Map API -->
-                <script async
+                <script
                     src="//maps.googleapis.com/maps/api/js?v=3.30&key=AIzaSyBSyu1NSptdSviUIqRgP7P3L5Iz6piXWIU&callback=initMap"
                     type="text/javascript"></script>
-                <!-- <script async
-                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSyu1NSptdSviUIqRgP7P3L5Iz6piXWIU&callback=initMap">
-                    </script> -->
+
                 <script type="text/javascript">
                     // The latitude and longitude of your business / place
                     //data-latitude="43.6684330" data-longitude="-79.3717660"
@@ -767,7 +765,7 @@
                             draggable: false,
                             optimized: false,
                             visible: true,
-                            animation: google.maps.Animation.DROP
+                            animation: google.maps.Animation.DROP,
                         });
                     }
                     google.maps.event.addDomListener(window, 'load', showGoogleMaps);
